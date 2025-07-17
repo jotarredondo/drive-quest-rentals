@@ -1,4 +1,4 @@
-package com.duoc;
+package com.duoc.main;
 
 
 
